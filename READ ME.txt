@@ -1,0 +1,5 @@
+Setup Database
+1. Open MySQL
+2. Create new database named abk
+3. Open file DATABASE
+4. Drag and drop abk.sql to abk database
